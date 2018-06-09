@@ -1,0 +1,5 @@
+﻿  P1.cpp
+c:\users\kuuhakuu\desktop\hw\p1\p1\p1.cpp(193): warning C4311: 'type cast': pointer truncation from 'LPMDICREATESTRUCT' to 'LONG'
+c:\users\kuuhakuu\desktop\hw\p1\p1\p1.cpp(193): warning C4302: 'type cast': truncation from 'LPMDICREATESTRUCT' to 'LONG'
+c:\users\kuuhakuu\desktop\hw\p1\p1\p1.cpp(208): warning C4101: 'flag': unreferenced local variable
+  P1.vcxproj -> C:\Users\Kuuhakuu\Desktop\HW\P1\x64\Debug\P1.exe
