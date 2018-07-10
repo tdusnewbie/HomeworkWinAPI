@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Project1.cpp
+c:\users\kuuhakuu\desktop\project1\project1\project1.cpp(256): warning C4101: 'hfNew': unreferenced local variable
+c:\users\kuuhakuu\desktop\project1\project1\project1.cpp(256): warning C4101: 'hfOld': unreferenced local variable
+Project1.obj : error LNK2019: unresolved external symbol __imp__InitCommonControls@0 referenced in function "void __cdecl doFileToolbar(struct HWND__ *)" (?doFileToolbar@@YAXPAUHWND__@@@Z)
+Project1.obj : error LNK2019: unresolved external symbol __imp__CreateToolbarEx@52 referenced in function "void __cdecl doFileToolbar(struct HWND__ *)" (?doFileToolbar@@YAXPAUHWND__@@@Z)
+..\ComCtl32.Lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+..\ComDlg32.Lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Kuuhakuu\Desktop\Project1\Debug\Project1.exe : fatal error LNK1120: 2 unresolved externals
