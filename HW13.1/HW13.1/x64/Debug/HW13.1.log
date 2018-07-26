@@ -1,0 +1,4 @@
+﻿  HW13.1.cpp
+c:\users\kuuhakuu\desktop\hw13.1\hw13.1\hw13.1.cpp(183): warning C4311: 'type cast': pointer truncation from 'HWND' to 'unsigned long'
+c:\users\kuuhakuu\desktop\hw13.1\hw13.1\hw13.1.cpp(183): warning C4302: 'type cast': truncation from 'HWND' to 'unsigned long'
+  HW13.1.vcxproj -> C:\Users\Kuuhakuu\Desktop\HW13.1\x64\Debug\HW13.1.exe

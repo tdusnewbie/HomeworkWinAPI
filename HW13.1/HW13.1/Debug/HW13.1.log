@@ -1,0 +1,5 @@
+﻿  HW13.1.cpp
+HW13.1.obj : error LNK2019: unresolved external symbol __imp__mciSendCommandW@16 referenced in function "void __cdecl doOpenMedia(struct HWND__ *,unsigned int &)" (?doOpenMedia@@YAXPAUHWND__@@AAI@Z)
+..\ComDlg32.Lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+..\WinMM.Lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Kuuhakuu\Desktop\HW13.1\Debug\HW13.1.exe : fatal error LNK1120: 1 unresolved externals

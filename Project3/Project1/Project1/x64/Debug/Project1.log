@@ -1,0 +1,6 @@
+﻿  Project1.cpp
+c:\users\kuuhakuu\desktop\hw\project2\project1\project1\project1.cpp(340): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kuuhakuu\desktop\hw\project2\project1\project1\project1.cpp(707): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\kuuhakuu\desktop\hw\project2\project1\project1\project1.cpp(751): warning C4244: 'argument': conversion from 'UINT_PTR' to 'UINT', possible loss of data
+c:\users\kuuhakuu\desktop\hw\project2\project1\project1\project1.cpp(852): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Kuuhakuu\Desktop\HW\Project2\Project1\x64\Debug\Project1.exe
